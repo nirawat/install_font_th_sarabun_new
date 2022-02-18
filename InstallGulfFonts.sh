@@ -18,7 +18,7 @@ cd ..
 cd usr/share/fonts/truetype
 mkdir gulf-fonts
 cd usr/share/fonts/truetype/gulf-fonts
-url="https://raw.githubusercontent.com/nirawat/install_font_th_sarabun_new/Fonts/"
+url="https://github.com/nirawat/install_font_th_sarabun_new/tree/main/Fonts/"
 echo "Download complete!"
 echo ""
 echo "Installing..."
