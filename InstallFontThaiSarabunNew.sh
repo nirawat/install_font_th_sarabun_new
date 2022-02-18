@@ -11,7 +11,7 @@ echo "*** NOTICE: Install apt-get install"
 apt-get install
 apt-get update
 apt-get install fontconfig
-apt-get -y install git
+apt-get -y install git-all
 echo ""
 echo "*** NOTICE: We've use root [sudo] mode. please enter the password. ***"
 echo "Downloading..."
