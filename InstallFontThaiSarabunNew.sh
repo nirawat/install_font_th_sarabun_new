@@ -15,6 +15,7 @@ apt-get -y install git-all
 echo ""
 echo "*** NOTICE: We've use root [sudo] mode. please enter the password. ***"
 echo "Downloading..."
+cd ..
 cd usr/share/fonts/truetype
 mkdir thai-sarabun-new
 git clone https://github.com/inwdragon/thsn-for-ubuntu.git
