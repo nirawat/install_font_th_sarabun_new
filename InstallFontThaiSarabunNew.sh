@@ -16,7 +16,6 @@ echo ""
 echo "*** NOTICE: We've use root [sudo] mode. please enter the password. ***"
 echo "Downloading..."
 sudo git clone https://github.com/inwdragon/thsn-for-ubuntu.git
-sudo wget -q -O - https://github.com/Phonbopit/sarabun-webfont/raw/master/fonts/thsarabunnew-webfont.ttf | bash
 echo "Download complete!"
 echo ""
 echo "Installing..."
