@@ -12,9 +12,12 @@ apt-get install
 apt-get update
 apt-get install fontconfig
 apt install git
+y
 echo ""
 echo "*** NOTICE: We've use root [sudo] mode. please enter the password. ***"
 echo "Downloading..."
+cd usr/share/fonts/truetype
+mkdir thai-sarabun-new
 git clone https://github.com/inwdragon/thsn-for-ubuntu.git
 echo "Download complete!"
 echo ""
