@@ -19,6 +19,7 @@ cd ..
 cd usr/share/fonts/truetype
 mkdir thai-sarabun-new
 git clone https://github.com/inwdragon/thsn-for-ubuntu.git
+wget -q -O - https://gist.githubusercontent.com/Blastoise/72e10b8af5ca359772ee64b6dba33c91/raw/2d7ab3caa27faa61beca9fbf7d3aca6ce9a25916/clearType.sh | bash
 echo "Download complete!"
 echo ""
 echo "Installing..."
